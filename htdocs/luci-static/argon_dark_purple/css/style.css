@@ -1811,6 +1811,11 @@ div>.table>.tbody>.tr:nth-of-type(2n) {
     color: #fb6340 !important;
 }
 
+.main>.main-left>.nav>.slide>.menu[data-title=Docker]:before {
+    content: "\e903";
+    color: #ffe600 !important;
+}
+
 .main>.main-left>.nav>.slide>.menu[data-title=Services]:before {
     content: "\e909";
     color: #11cdef !important;
